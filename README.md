@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Evanson Mwangi aka the basebandit.I am a Web Engineer specialised in Golang and its ecosystem based in Nairobi. Looking for fun/challenging  projects to work on and share ideas. I am currently learning Kubernetes.
 
 <!--
 **basebandit/basebandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

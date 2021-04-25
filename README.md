@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Evanson Mwangi aka the basebandit.I am a Web Engineer specialising in Golang and its ecosystem based in Nairobi. Looking for fun/challenging  projects to work on and share ideas.
+I'm Evanson Mwangi aka the basebandit.I am a FullStack Web Engineer specialising in NodeJs/Golang/VueJS/Docker based in Nairobi. Looking for fun/challenging  projects to work on and share ideas.
 
 <!--
 **basebandit/basebandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

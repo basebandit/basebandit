@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Evanson Mwangi aka the basebandit.I am a FullStack Web Developer specialising in Golang based in Nairobi. I have experience with NodeJS, VueJS and Docker.
+I'm Evanson Mwangi aka the basebandit.I am a FullStack Web Developer specialising in Golang based in Nairobi. I also have experience with NodeJS, VueJS and Docker.
 - 🔭 I’m currently working on [Fupisha](https://github.com/nairobi-gophers/fupisha)
 - 🌱 I’m currently learning AWS Cloud Practitioner Essentials, Algorithms.
 - 👯 I’m looking to collaborate on fun and interesting projects.

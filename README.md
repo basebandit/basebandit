@@ -5,7 +5,7 @@ I'm Evanson Mwangi aka the basebandit.I am a FullStack Web Developer specialisin
 - 👯 I’m looking to collaborate on fun and interesting projects.
 - 🤔 I’m looking for work (remote).
 - 💬 Ask me about anything about the Web.
-- 📫 How to reach me: (twitter)[https://twitter.com/_mr_Parish], linkedin[https://www.linkedin.com/in/evansonmwangi/]
+- 📫 How to reach me: (twitter)[https://twitter.com/_mr_Parish], (linkedin)[https://www.linkedin.com/in/evansonmwangi/]
 - 😄 Pronouns: He/Him
 
 <!--

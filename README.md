@@ -3,7 +3,7 @@ I'm Evanson Mwangi aka Parish.I am a FullStack Web Developer specialising in Gol
 - 🔭 I’m currently working on [Fupisha](https://github.com/nairobi-gophers/fupisha) during my freetime.
 - 🌱 I’m currently learning AWS Cloud Practitioner Essentials, Algorithms.
 - 👯 I’m looking to collaborate on fun and interesting projects.
-- 🤔 I’m looking for work (remote).
+<!-- - 🤔 I’m looking for work (remote). -->
 - 💬 Ask me about the Web,Golang and perhaps NodeJS.
 - 📫 How to reach me: [twitter](https://twitter.com/_mr_Parish), [linkedin](https://www.linkedin.com/in/evansonmwangi/)
 - 😄 Pronouns: He/Him

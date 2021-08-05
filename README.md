@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Evanson Mwangi aka Parish.I am a FullStack Web Developer specialising in Golang based in Nairobi. I also have experience in NodeJS,Python(Flask),VueJS,Java and Docker.
+I'm Evanson Mwangi aka Parish.I am a FullStack Web Developer specialising in Golang based in Nairobi. I also have experience in NodeJS,Python(Flask),VueJS,ReactJS,Java and Docker.
 - 🔭 I’m currently working on [Fupisha](https://github.com/nairobi-gophers/fupisha) during my freetime.
 - 🌱 I’m currently learning React-Native.
 - 👯 I’m looking to collaborate on fun and interesting projects.

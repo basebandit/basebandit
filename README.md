@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I'm a FullStack Web Developer specialising in Golang based in Nairobi. I also have experience in NodeJS,Python(Flask),VueJS,ReactJS,Java and Docker.
 - 🔭 I’m currently working on [Fupisha](https://github.com/nairobi-gophers/fupisha) during my freetime.
-- 🌱 I’m currently learning React-Native.
+<!-- - 🌱 I’m currently learning React-Native. -->
 - 👯 I’m looking to collaborate on fun and interesting projects.
 <!-- - 🤔 I’m looking for work (remote). -->
 - 💬 Ask me about the Web,Golang and perhaps NodeJS.

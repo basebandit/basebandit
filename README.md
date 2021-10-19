@@ -1,12 +1,9 @@
 ### Hi there 👋 
 I'm a FullStack Web Developer specialising in Golang based in Nairobi. I also have experience in NodeJS,Python(Flask),VueJS,ReactJS,Java and Docker.
 - 🔭 I’m currently working on [Fupisha](https://github.com/nairobi-gophers/fupisha) during my freetime.
-<!-- - 🌱 I’m currently learning React-Native. -->
 - 👯 I’m looking to collaborate on fun and interesting projects.
-<!-- - 🤔 I’m looking for work (remote). -->
 - 💬 Ask me about the Web,Golang and perhaps NodeJS.
-- 📫 How to reach me: [twitter](https://twitter.com/_mr_Parish), [linkedin](https://www.linkedin.com/in/evansonmwangi/)
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: [twitter](https://twitter.com/_mr_Parish)
 
 <!--
 **basebandit/basebandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

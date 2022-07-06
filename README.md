@@ -1,2 +1,2 @@
 ### Hi there 👋 
-I am a Golang Engineer based in Nairobi.
+I am a Golang Hacker based in Nairobi.

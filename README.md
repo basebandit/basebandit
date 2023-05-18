@@ -1,2 +1,2 @@
 ### Hi there 👋 
-I am a Golang Hacker and a Cloud Engineer based in Nairobi.
+I am a Golang Hacker and a DevOps Practitioner (Kuberenetes, Terraform, AWS) based in Nairobi.

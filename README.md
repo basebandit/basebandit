@@ -1,2 +1,2 @@
 ### Hi there 👋 
-I am a Golang Hacker and a DevOps Practitioner (Kuberenetes, Terraform, AWS) based in Nairobi.
+I am a Golang Hacker and a DevOps Practitioner (Kubernetes, Terraform, AWS) based in Nairobi.
